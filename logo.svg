@@ -1,0 +1,5 @@
+<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 50,5 L 95,27.5 L 95,72.5 L 50,95 L 5,72.5 L 5,27.5 Z" fill="#0D1B2A" stroke="#F7941D" stroke-width="2"/>
+  <text x="50" y="63" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#F7941D" text-anchor="middle">QP</text>
+  <line x1="57" y1="43" x2="67" y2="43" stroke="#0D1B2A" stroke-width="3"/>
+</svg>
